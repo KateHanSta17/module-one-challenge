@@ -32,11 +32,11 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+.nav div ul {
     list-style-type: none;
 }
 
-.header div ul li {
+.nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -75,7 +75,8 @@ p {
     margin-left: 20px;
 }
 
-.benefits {
+.aside {
+    display: inline-block;
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -87,17 +88,17 @@ p {
 }
 
 .benefit-lead {
-    margin-bottom: 32px;
+    margin-bottom: 30px;
     color: #ffffff;
 }
 
 .benefit-brand {
-    margin-bottom: 32px;
+    margin-bottom: 30px;
     color: #ffffff;
 }
 
 .benefit-cost {
-    margin-bottom: 32px;
+    margin-bottom: 30px;
     color: #ffffff;
 }
 
