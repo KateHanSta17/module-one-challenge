@@ -51,4 +51,9 @@ The footer element should have 30px padding. (4 points)
 The text in the footer element should be centered. (4 points)
 
 ## Authors
-Kate Stapley - Coding Bootcamp
+Original Source code provided by Bootcamp TA from repo - https://git.bootcampcontent.com/University-of-Sydney/USYD-VIRT-FSF-PT-05-2024-U-LOLC/-/tree/main/01-HTML-Git-CSS/02-Challenge?ref_type=heads
+updated index.html located - https://github.com/KateHanSta17/module-one-challenge
+updated Style.css located - https://github.com/KateHanSta17/module-one-challenge/tree/main/assets/css
+assets (images as provided by TA) located - https://github.com/KateHanSta17/module-one-challenge/tree/main/assets/images 
+
+Code refactoring completed by Kate Stapley - Coding Bootcamp
